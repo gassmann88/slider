@@ -21,7 +21,6 @@ p{
   	background:black;
   	overflow: hidden;
   	position: relative;
-  	max-height: 600px;
 }
 #slider{
 	position: absolute;
